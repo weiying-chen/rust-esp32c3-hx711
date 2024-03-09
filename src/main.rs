@@ -23,7 +23,7 @@ fn main() {
     loop {
         if load_sensor.is_ready() {
             let reading = load_sensor.read_scaled().unwrap();
-            // let reading = load_sensor.read().unwrap(); // Use this one to calibrate the load cell
+            // let reading = load_sensor.read().unwrap(); // Use this to calibrate the load cell
             log::info!("Weight: {:.0} g", reading);
             // log::info!("Weight: {} g", reading); // Use this to get all the decimals
         }

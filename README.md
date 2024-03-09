@@ -10,7 +10,7 @@ Example of reading the HX711 24-bit analog-to-digital converter and a load cell 
 - Breadboard
 - Jump wires
 - USB-A to Micro-B cable
-- [Weighing acrylic](https://www.elecbee.com/image/catalog/Sensor-and-Detector-Module/ESP32-096-OLED-HX711-Digital-Load-Cell-1KG-Weight-Sensor-Board-Development-Tool-Kit-1410870-descriptionImage11.jpeg)
+- [Weighing acrylics](https://www.elecbee.com/image/catalog/Sensor-and-Detector-Module/ESP32-096-OLED-HX711-Digital-Load-Cell-1KG-Weight-Sensor-Board-Development-Tool-Kit-1410870-descriptionImage11.jpeg)
 
 Step 1: solder the load cell wires to the HX711: 
 

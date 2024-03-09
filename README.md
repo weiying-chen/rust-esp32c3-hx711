@@ -21,7 +21,7 @@ Step 1: solder the load cell wires to the HX711:
 
 Step 2 (optional): screw the weighing acrylics to the load sensor. 
 
-Step 3 solder headers to the HX711's GND, DT, SCK, and VCC. 
+Step 3: solder headers to the HX711's GND, DT, SCK, and VCC. 
 
 Step 4: attach the HX711 to the breadboard (with its headers).
 

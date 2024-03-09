@@ -56,5 +56,5 @@ I (78145) rust_esp32_hx711: Weight: 0 g
 I (79145) rust_esp32_hx711: Weight: 45 g
 ```
 
-Let me know if I skipped any step.
+Let me know if I skipped any steps.
 
